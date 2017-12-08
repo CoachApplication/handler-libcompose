@@ -1,0 +1,4 @@
+[submodule "vendor/github.com/docker/libcompose"]
+	path = vendor/github.com/docker/libcompose
+	url = https://github.com/docker/libcompose
+	branch = master
